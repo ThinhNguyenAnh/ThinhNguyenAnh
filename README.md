@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Anh Thinh</h1>
 <h3 align="center">I'm a student currently studying Software Engineering at FPT University</h3>
 
-- 📫 How to reach me **anhthinh.61.got@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
